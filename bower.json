@@ -1,0 +1,21 @@
+{
+  "name": "pdp_dirPagination",
+  "homepage": "https://github.com/TuanLu/pdp_dirPagination",
+  "authors": [
+    "Tim <tuan.mrbean@gmail.com>"
+  ],
+  "description": "dirPagination for pdp app",
+  "main": "dirPagination.js",
+  "keywords": [
+    "paging",
+    "pdp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
